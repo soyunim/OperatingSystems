@@ -1,0 +1,7 @@
+total 128
+drwxr-xr-x   6 imsoyun  staff    192  3 31 03:46 .
+drwx------@ 10 imsoyun  staff    320  3 31 03:44 ..
+-rw-r--r--@  1 imsoyun  staff   6148  3 31 03:43 .DS_Store
+-rw-------   1 imsoyun  staff      0  3 31 03:46 shellout.txt
+-rwxr-xr-x   1 imsoyun  staff  50664  3 31 03:46 simple_shell
+-rw-r--r--@  1 imsoyun  staff   3651  3 31 03:12 simple_shell.c
